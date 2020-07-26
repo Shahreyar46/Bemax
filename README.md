@@ -2,7 +2,7 @@
 ###  **Project Name: Bemax**
 ### **This is a simple Html,Css ,Bootstarp template.**
 ### Live:   https://shahreyar46.github.io/Bemax/
-### **Built With**
+### **Build With**
 
 - HTML5
 
